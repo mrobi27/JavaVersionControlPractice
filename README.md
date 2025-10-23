@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mrobi27/JavaVersionControlPractice/blob/main/Codelab/assets/robot.svg" width="180" alt="Animated Robot">
+  <img src="https://raw.githubusercontent.com/mrobi27/JavaVersionControlPractice/main/assets/robot.svg" width="180" alt="Animated Robot">
 </p>
 
 <h1 align="center">🤖 DocumentationPractice</h1>

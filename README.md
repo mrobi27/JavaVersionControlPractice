@@ -54,4 +54,4 @@ Menjalankan program Java di IntelliJ
 
 Mempelajari dasar penggunaan Git & GitHub
 
-✨ Dibuat oleh Muhamad Robi Ardita — Universitas Muhammadiyah Malang ✨
+✨ Hloo saya Muhamad Robi Ardita — Universitas Muhammadiyah Malang ✨
